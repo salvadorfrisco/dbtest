@@ -1,0 +1,28 @@
+[
+   {
+      "id":"01",
+      "todoText":"Morning Excercise",
+      "isDone":true
+   },
+   {
+      "id":"02",
+      "todoText":"Buy Groceries",
+      "isDone":true
+   },
+   {
+      "id":"03",
+      "todoText":"Check Emails"
+   },
+   {
+      "id":"04",
+      "todoText":"Team Meeting"
+   },
+   {
+      "id":"05",
+      "todoText":"Work on mobile apps for 2 hour"
+   },
+   {
+      "id":"06",
+      "todoText":"Dinner with Jenny"
+   }
+]
